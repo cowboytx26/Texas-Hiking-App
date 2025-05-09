@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Texas Hiking App</string>
+    <string name="top_bar_name">Texas Hiking</string>
+    <string name="easy_hike_on">Prefer Easy Hikes On</string>
+    <string name="easy_hike_off">Prefer Easy Hikes Off</string>
+    <string name="expanded_info_park">Town</string>
+    <string name="abilene">Abilene State Park</string>
+    <string name="palmetto">Palmetto State Park</string>
+    <string name="buescher">Buescher State Park</string>
+    <string name="bastropsp">Bastrop State Park</string>
+    <string name="bigbendranch">Big Bend Ranch State Park</string>
+    <string name="buffalo_wallow">Buffalo Wallow Trail</string>
+    <string name="palmetto_interpretive_trail">Palmetto Interpretive Trail</string>
+    <string name="cowboycircle">Cowboy Circle Trail</string>
+    <string name="lostpines">Lost Pines Loop</string>
+    <string name="heronhide">Heron Hideaway</string>
+    <string name="treearmy">Tree Army Trails</string>
+    <string name="encinoloop">Encino Loop Trail</string>
+    <string name="sauceda">Sauceda Nature Trail</string>
+    <string name="closedcanyon">Closed Canyon Trail</string>
+    <string name="pine_gulch">Pine Gulch Trail</string>
+    <string name="flower_view_crossing">Flower View Crossing</string>
+    <string name="roosevelts_cutoff">Roosevelt\'s Cutoff Trail</string>
+    <string name="expand_button_content_description">Town:</string>
+    <string name="expand_button_content_description2">Difficulty Rating:</string>
+    <string name="share_app">I love this app!</string>
+    <string name="get_help">There is something about the application that is not working</string>
+    <string name="gonzales">Gonzales</string>
+    <string name="tuscola">Tuscola</string>
+    <string name="smithville">Smithville</string>
+    <string name="bastrop">Bastrop</string>
+    <string name="terlingua">Terlingua</string>
+    <string name="hard">Hard</string>
+    <string name="moderate">Moderate</string>
+    <string name="easy">Easy</string>
+</resources>
